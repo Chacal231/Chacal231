@@ -1,4 +1,4 @@
-<h1 align="center">¡Hola! Soy Lucas 👋</h1>
+<h1 align="center">¡Hola! Soy Daniel 👋</h1>
 
 <p align="center">
   Estudiante de <b>DAM (Desarrollo de Aplicaciones Multiplataforma)</b> en UDIT, Madrid

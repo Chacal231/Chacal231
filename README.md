@@ -20,7 +20,7 @@
 - 🎓 Cursando *CFGS en Desarrollo de Aplicaciones Multiplataforma (DAM)* en UDIT
 - 🛠️ Aprendiendo y trabajando con Java (OOP), desarrollo web, bases de datos y redes
 - 🌱 Interesado en ciberseguridad, OSINT y ciencia de datos
-- 📫 Puedes escribirme a: **lucas.hernandez.romero1966@gmail.com*
+- 📫 Puedes escribirme a: **danibaeza2019@gmail.com*
 
 ---
 
